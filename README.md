@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Anthony Gonçalves
 
 - 🔭 Hoje trabalho com ciência de dados 
-- 🌱 Estudando python e C#
+- 🌱 Estudando python, C++, C#, R e Prolog
 - 😄 Pronomes: ele/dele
 
 <div align="center">
