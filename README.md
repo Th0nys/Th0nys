@@ -9,7 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="250" alt="coding-time" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
     <h1 align="center">Best Technologies <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -23,13 +23,13 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: an6556561@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="[gmail.svg](https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg#/media/File:Gmail_Icon_(2013-2020).svg)">
     </a>
     <a href = "https://www.linkedin.com/in/anthony-gonçalves-7209b0202/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
     </a>
     <a href = "https://www.instagram.com/thonyispunk/">
-      <img width="25" src="instagram.png">
+      <img width="25" src="[instagram.png](https://commons.wikimedia.org/wiki/File:Instagram-Icon.png)">
     </a>
 </div>
   
