@@ -15,7 +15,7 @@
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
@@ -23,14 +23,14 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: an6556561@gmail.com">
-      <img width="30" src="[gmail.svg](https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg#/media/File:Gmail_Icon_(2013-2020).svg)">
+      <img width="30" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/anthony-gonçalves-7209b0202/">
-      <img width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+      <img width="25" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg">
     </a>
     <a href = "https://www.instagram.com/thonyispunk/">
-      <img width="25" src="[instagram.png](https://commons.wikimedia.org/wiki/File:Instagram-Icon.png)">
+      <img width="25" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png">
     </a>
 </div>
   
-![Snake animation](https://github.com/Th0nys/Th0nys/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
