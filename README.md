@@ -21,7 +21,7 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Social Media</h1>
     <a href = "mailto: an6556561@gmail.com">
       <img width="30" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg">
     </a>
