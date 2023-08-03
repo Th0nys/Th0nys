@@ -32,5 +32,4 @@
       <img width="25" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png">
     </a>
 </div>
-  
-![Snake animation](https://github.com/Th0nys/Th0nys/blob/output/github-contribution-grid-snake.svg)
+
